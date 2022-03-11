@@ -1,4 +1,3 @@
-from turtle import title
 from xmlrpc.client import Boolean
 from sqlalchemy import TIMESTAMP, Column, ForeignKey, Integer, String, Boolean
 from sqlalchemy.sql.expression import text
